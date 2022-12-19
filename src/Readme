@@ -1,3 +1,12 @@
+Main.ipynb contains the following:
+
+Problem 1 - Data Modeling
+Problem 2 - Ingestion
+Problem 3 - Data Analysis
+
+app.py contains the Flask application
+
 Run the app file using the following command:
 
 python app.py
+
